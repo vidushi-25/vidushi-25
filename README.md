@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vidushi-25
-- 👀 I’m interested in cleaning and analyzing data and creating Dashboards through Data Analysis
+- 👀 I’m interested in cleaning and analyzing data through Data Analysis and in creating Dashboards
 - 🌱 I’m currently learning Advanced Excel, SQL, Python and Tableau
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 You can connect with me at vidushibansal2511@gmail.com
